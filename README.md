@@ -1,10 +1,8 @@
-# Your startup name here
+# Foodease
 
 [My Notes](notes.md)
 
-funny joke
-
-A brief description of the application here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My startup is a recipe sharing website named Foodease. The platform allows users to discover, save, and share interesting recipes. Users can submit recipes they enjoy, and others can view and save these submissions.
 
 
 > [!NOTE]
@@ -34,11 +32,9 @@ Foodease is a streamlined social platform that makes recipe discovery and sharin
 
 ![Design image](placeholder.png)
 
-The platform allows users to discover, save, and share interesting recipes. Users can submit recipes they enjoy, and others can view and save these submissions. Below is a sequence diagram that shows how users would interact with the backend to share, view and save recipes.
+Below is a sequence diagram that shows how users would interact with the backend to share, view and save recipes.
 
 ```mermaid
-title User Flow Example
-
 sequenceDiagram
     actor User1
     actor User2
